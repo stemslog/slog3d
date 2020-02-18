@@ -1,5 +1,13 @@
 # slog3d
-An IoT Printer
+Web ui for controlling An IoT 3D Printer #Slog3d
+ 
+Coming more... 
 
-Coming more... @slog
+@Slog 
+
+: All about open source.
+
+
+
+For more, 
 info@stemslog.com
