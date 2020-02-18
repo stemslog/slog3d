@@ -1,4 +1,4 @@
-# slog3d
+# Slog3d
 Web ui for controlling An IoT 3D Printer #Slog3d
  
 Coming more... 
